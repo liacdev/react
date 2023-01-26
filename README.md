@@ -48,32 +48,32 @@ Advanced guides:
 22. Web components
 
 API reference:
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
+1. React
+2. React.Component
+3. ReactDOM
+4. ReactDOMClient
+5. ReactDOMServer
+6. DOM elements
+7. Synthetic event
+8. Test utilities
+9. Test renderer
+10. JS environment requirements
+11. Glossary
 
 Hooks:
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+1. Introducing hooks
+2. Hooks at a glance
+3. Using the State hook
+4. Using the Effect hook
+5. Rules of hooks
+6. Building your own hooks
+7. Hooks API reference
+8. Hooks FAQ
 
 Testing: 
-1. 
-2. 
-3. 
+1. Testing overview
+2. Testing recipes
+3. Testing environments
 
 Contributing: 
 1. 
