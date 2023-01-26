@@ -3,11 +3,11 @@ This repo is for my React notes
 
 # Main branch: Table of contents
 Installation:
-- Getting started
-- Add rect to a website
-- Create a new react app
-- CDN Links
-- Release channels
+1. Getting started
+2. Add rect to a website
+3- Create a new react app
+4. CDN Links
+5. Release channels
 
 Main concepts:
 1. Hellow World
