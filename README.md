@@ -76,7 +76,7 @@ Testing:
 3. Testing environments
 
 Contributing: 
-1. 
-2. 
-3. 
-4. 
+1. How to contribute
+2. Codebase overview
+3. Implementation notes
+4. Design principles
